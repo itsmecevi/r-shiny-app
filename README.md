@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## Interactive web apps straight from R
 
-You can use the [editor on GitHub](https://github.com/itsmecevi/r-shiny-app/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Shiny](https://www.rstudio.com/products/shiny-2/) is an open source R package that provides an elegant and powerful web framework for building web applications using R.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+
+### White Noise Simulation
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
