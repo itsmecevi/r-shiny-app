@@ -17,3 +17,12 @@ Code:
 2. [Shiny-app](https://github.com/itsmecevi/r-shiny-app/blob/master/white-noise-simulation/app.R)
 
 
+### #Random Walk Simulation
+https://en.wikipedia.org/wiki/Random_walk
+
+[Live Preview](https://itsmecevi.shinyapps.io/random-walk-simulation/)
+
+Code: 
+1. [R-code](https://github.com/itsmecevi/r-shiny-app/blob/master/white-noise-simulation/1-uebungsblatt_5.R)
+2. [Shiny-app](https://github.com/itsmecevi/r-shiny-app/blob/master/white-noise-simulation/app.R)
+
