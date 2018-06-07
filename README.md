@@ -33,5 +33,5 @@ Code:
 [Live Preview]()
 
 Code: 
-[Shiny-app](https://github.com/itsmecevi/r-shiny-app/blob/master/random-walk-simulation/app.R)
+[Shiny-app](https://github.com/itsmecevi/r-shiny-app/tree/master/time-series-dataset)
 
