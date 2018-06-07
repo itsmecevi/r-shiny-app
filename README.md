@@ -35,3 +35,11 @@ Code:
 Code: 
 [Shiny-app](https://github.com/itsmecevi/r-shiny-app/tree/master/time-series-dataset)
 
+
+
+### #Pointer Value
+
+[Live Preview](https://itsmecevi.shinyapps.io/pointer-value/)
+
+Code: 
+[Shiny-app]()
