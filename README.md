@@ -26,3 +26,11 @@ Code:
 1. [R-code](https://github.com/itsmecevi/r-shiny-app/blob/master/random-walk-simulation/2-uebungsblatt_4.R)
 2. [Shiny-app](https://github.com/itsmecevi/r-shiny-app/blob/master/random-walk-simulation/app.R)
 
+
+### #Time Series Dataset
+
+[Live Preview](https://itsmecevi.shinyapps.io/random-walk-simulation/)
+
+Code: 
+[Shiny-app](https://github.com/itsmecevi/r-shiny-app/blob/master/random-walk-simulation/app.R)
+
