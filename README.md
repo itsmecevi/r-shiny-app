@@ -3,7 +3,7 @@
 [Shiny](https://www.rstudio.com/products/shiny-2/) is an open source R package that provides an elegant and powerful web framework for building web applications using R.
 
 Note!: Sometimes the Live Preview server is running out (free version). Just refresh the page or come back later.
-Sorry for inconvenience
+Sorry for inconvenience.
 
 
 
